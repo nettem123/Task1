@@ -1,0 +1,29 @@
+.c{
+    width:120%;
+    height:200%;
+    background-image:url('bg.jpg');   
+}
+.z{
+  margin-left:30%;
+}
+.a{
+    width: 40%; 
+    margin-left:5%;
+    height: 100px;    
+}
+.b{
+    margin-left: 55%; 
+    height: 100px;  
+}
+.d{
+    width:45%;
+    height:175%;
+}
+#af{
+  margin-left:40%;
+  width:20%;
+  height:15%;
+}
+h1{
+  color:red;
+}
